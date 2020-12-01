@@ -7,7 +7,7 @@ Dosen : Agung Nugroho, M.Kom<br>
 Matkul : Bahasa Pemrograman<br>
 Kelas : TI.20.B.1<br>
 
-Pada materi kali ini pertemuan-10 Lab-6 Dosen memberi tugas sebagai berikut :<br>
+Pada materi kali ini pertemuan-10 Lab-6 membahas tentang Sub rutin/Fungsi setelah mempelajari materi Dosen memberi tugas sebagai berikut :<br>
 * Soal Latihan pada Lab 6<br>
 ![latihan](pict/latihan6.PNG)<br>
 * Dan seperti ini lah saya membuat code untuk memenuhi tugas latihan lab 6<br>
@@ -59,3 +59,5 @@ def d2(s): "".join(set(s))
 
 print("Ubahlah kode dibawah ini menjadi fungsi menggunakan lambda \n   def d(s): \n \t   return "".join(set(s))")
 print("Lambda : def d2(s): "".join(set(s))")
+```
+![hasil-latihan](pict/hasil-latihan.PNG)<br>
