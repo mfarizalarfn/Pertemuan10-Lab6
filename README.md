@@ -60,4 +60,5 @@ def d2(s): "".join(set(s))
 print("Ubahlah kode dibawah ini menjadi fungsi menggunakan lambda \n   def d(s): \n \t   return "".join(set(s))")
 print("Lambda : def d2(s): "".join(set(s))")
 ```
+* Berikut adalah hasil run dari code diatas<br>
 ![hasil-latihan](pict/hasil-latihan.PNG)<br>
