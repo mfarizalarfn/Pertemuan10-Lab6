@@ -62,3 +62,6 @@ print("Lambda : def d2(s): "".join(set(s))")
 ```
 * Berikut adalah hasil run dari code diatas<br>
 ![hasil-latihan](pict/hasil-latihan.PNG)<br>
+
+* Soal Praktikum pada Lab 6<br>
+![tugas-prkatikum6](pict/tugas-praktikum6.PNG)<br>
